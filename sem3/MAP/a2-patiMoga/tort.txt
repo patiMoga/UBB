@@ -1,0 +1,7 @@
+1;Cioco
+2;TUDOR
+3;Vanilie
+5;LARA
+7;gaga
+6;GALAGIE
+21;hehe
