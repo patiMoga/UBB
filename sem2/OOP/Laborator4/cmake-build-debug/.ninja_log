@@ -1,0 +1,25 @@
+# ninja log v5
+6	705	7022078460787942	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+705	877	7022078462458498	Laborator4.exe	684c1d2b8ccf23da
+12	705	7022077050264857	CMakeFiles/Laborator4.dir/tests.cpp.obj	560edffcd0a7c2ee
+23	141	7022049329822021	CMakeFiles/Laborator4.dir/patrat.cpp.obj	c54ecafd09ed1193
+1	170	7022956865065134	build.ninja	bc74337ecc50ee35
+17	321	7022077046688768	CMakeFiles/Laborator4.dir/repository.cpp.obj	f849c083e993bde9
+22	243	7022077045908603	CMakeFiles/Laborator4.dir/opperations.cpp.obj	2fe2157f49fb48cf
+23	345	7023285832817033	CMakeFiles/Laborator4.dir/operations.cpp.obj	6ece688afc452994
+5	805	7023285837428062	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+15	818	7023285837548092	CMakeFiles/Laborator4.dir/tests.cpp.obj	560edffcd0a7c2ee
+818	1059	7023285839908610	Laborator4.exe	f38911c461091d14
+5	715	7023286442766166	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+716	910	7023286444651054	Laborator4.exe	f38911c461091d14
+5	699	7023288511525252	CMakeFiles/Laborator4.dir/tests.cpp.obj	560edffcd0a7c2ee
+700	885	7023288513325452	Laborator4.exe	f38911c461091d14
+18	374	7023289142256861	CMakeFiles/Laborator4.dir/tests.cpp.obj	560edffcd0a7c2ee
+9	736	7023289145897688	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+736	880	7023289147299632	Laborator4.exe	f38911c461091d14
+4	616	7023290636316506	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+617	774	7023290637856958	Laborator4.exe	f38911c461091d14
+13	154	7318872513264152	CMakeFiles/Laborator4.dir/operations.cpp.obj	6ece688afc452994
+9	193	7318872513654098	CMakeFiles/Laborator4.dir/tests.cpp.obj	560edffcd0a7c2ee
+3	415	7318872515864914	CMakeFiles/Laborator4.dir/main.cpp.obj	991dedc43a901114
+415	524	7318872516924935	Laborator4.exe	f38911c461091d14

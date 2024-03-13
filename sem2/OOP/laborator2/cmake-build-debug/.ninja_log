@@ -1,0 +1,15 @@
+# ninja log v5
+8	602	7003925932090749	CMakeFiles/laborator2.dir/main.cpp.obj	fc3b64267ad66b19
+3	333	7003588410186227	CMakeFiles/laborator2.dir/probl.cpp.obj	cd767362250f5f28
+619	978	7003925935789355	laborator2.exe	cff2ddd0d0283933
+16	619	7003925932250975	CMakeFiles/laborator2.dir/rezolv56.cpp.obj	fc05c51b31e8ce3b
+6	611	7003937950054899	CMakeFiles/laborator2.dir/main.cpp.obj	fc3b64267ad66b19
+6	595	7003938050605016	CMakeFiles/laborator2.dir/tests.cpp.obj	9cd459dc13d88b62
+596	762	7003938052205373	laborator2.exe	3312c25739e9aa33
+5	574	7003939877265726	CMakeFiles/laborator2.dir/main.cpp.obj	fc3b64267ad66b19
+575	741	7003939878866274	laborator2.exe	3312c25739e9aa33
+4	390	7318871514799127	CMakeFiles/laborator2.dir/main.cpp.obj	fc3b64267ad66b19
+10	404	7318871515009151	CMakeFiles/laborator2.dir/rezolv56.cpp.obj	fc05c51b31e8ce3b
+14	407	7318871515059153	CMakeFiles/laborator2.dir/probl.cpp.obj	cd767362250f5f28
+20	419	7318871515169168	CMakeFiles/laborator2.dir/tests.cpp.obj	9cd459dc13d88b62
+419	512	7318871516059139	laborator2.exe	3312c25739e9aa33

@@ -1,0 +1,13 @@
+# ninja log v5
+4	3176	7079295150925717	CMakeFiles/lab_4_5_SD_v1.dir/main.cpp.obj	a6dc305e0694e489
+1598	1716	7079295663707594	lab_4_5_SD_v1.exe	f73aa293a304741
+10	1157	7079295130712530	CMakeFiles/lab_4_5_SD_v1.dir/Colectie.cpp.obj	1144c42d68a76e1f
+3	1597	7079295662557337	CMakeFiles/lab_4_5_SD_v1.dir/ATM.cpp.obj	68b3ee461d3fb801
+19	1031	7079295129462253	CMakeFiles/lab_4_5_SD_v1.dir/TestList.cpp.obj	1b311987bddfbd01
+15	3229	7079295151465710	CMakeFiles/lab_4_5_SD_v1.dir/Tranzactie.cpp.obj	f88e0428aa686396
+18	417	7318870644854975	CMakeFiles/lab_4_5_SD_v1.dir/TestList.cpp.obj	734ddc88d4a8d775
+3	471	7318870645394973	CMakeFiles/lab_4_5_SD_v1.dir/Colectie.cpp.obj	4112a09bf25398c1
+7	1897	7318870659654927	CMakeFiles/lab_4_5_SD_v1.dir/main.cpp.obj	d90da5efd6bd26cc
+11	1961	7318870660294979	CMakeFiles/lab_4_5_SD_v1.dir/Tranzactie.cpp.obj	dfb3b1a14486ed6d
+14	2068	7318870661364907	CMakeFiles/lab_4_5_SD_v1.dir/ATM.cpp.obj	65e64d1e7ff4db5f
+2068	2189	7318870662545116	lab_4_5_SD_v1.exe	f73aa293a304741

@@ -1,0 +1,12 @@
+//
+// Created by ARDELE on 5/30/2022.
+//
+
+#ifndef EXAMEN_PRACTIC_30_05_2022_TESTS_H
+#define EXAMEN_PRACTIC_30_05_2022_TESTS_H
+
+
+void tests();
+
+
+#endif //EXAMEN_PRACTIC_30_05_2022_TESTS_H

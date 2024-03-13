@@ -1,0 +1,16 @@
+# ninja log v5
+14	588	7003956525601401	CMakeFiles/Laborator3.dir/citaf.cpp.obj	463e82cf04aa59a
+6	656	7010004615903693	CMakeFiles/Laborator3.dir/main.cpp.obj	f190163ac434c161
+8	593	7010005980219891	CMakeFiles/Laborator3.dir/tests.cpp.obj	ce49e57285c94059
+594	754	7010005981804165	Laborator3.exe	60adcf53534dd764
+5	666	7010005202599863	CMakeFiles/Laborator3.dir/rezolvare.cpp.obj	eb02f113acbf3e75
+5	581	7010006145070222	CMakeFiles/Laborator3.dir/tests.cpp.obj	ce49e57285c94059
+582	743	7010006146650572	Laborator3.exe	60adcf53534dd764
+6	572	7010006286160867	CMakeFiles/Laborator3.dir/tests.cpp.obj	ce49e57285c94059
+573	736	7010006287760061	Laborator3.exe	60adcf53534dd764
+7	582	7010007742136863	CMakeFiles/Laborator3.dir/main.cpp.obj	f190163ac434c161
+584	748	7010007743733223	Laborator3.exe	60adcf53534dd764
+9	354	7318872043618855	CMakeFiles/Laborator3.dir/rezolvare.cpp.obj	eb02f113acbf3e75
+3	356	7318872043648889	CMakeFiles/Laborator3.dir/main.cpp.obj	f190163ac434c161
+13	357	7318872043658876	CMakeFiles/Laborator3.dir/tests.cpp.obj	ce49e57285c94059
+358	444	7318872044498796	Laborator3.exe	60adcf53534dd764

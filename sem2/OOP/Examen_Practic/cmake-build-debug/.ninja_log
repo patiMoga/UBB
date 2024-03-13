@@ -1,0 +1,16 @@
+# ninja log v5
+1	315	7106695220358873	build.ninja	4c1fd64a6d357262
+3	557	6755954864757547	CMakeFiles/Examen_Practic_30_05_2022.dir/Bacterie.cpp.obj	37573b2d4c5e3e73
+3	563	6755984419990405	CMakeFiles/Examen_Practic_30_05_2022.dir/Service.cpp.obj	22cd7afd5e6d6b55
+564	723	6755984421589085	Examen_Practic_30_05_2022.exe	9f2dfe5d06d8a936
+6	619	6755954865375869	CMakeFiles/Examen_Practic_30_05_2022.dir/Repository.cpp.obj	92f6fa4b3154e89a
+3	1084	6755979963197031	CMakeFiles/Examen_Practic_30_05_2022.dir/main.cpp.obj	4e8c14f166efba39
+4	452	6755980648380009	CMakeFiles/Examen_Practic_30_05_2022.dir/UI.cpp.obj	1fdf60c40b1efa82
+10	1083	6755979963147168	CMakeFiles/Examen_Practic_30_05_2022.dir/tests.cpp.obj	8eb6c49b6dd84649
+9	531	7106695336179340	CMakeFiles/Examen_Practic_30_05_2022.dir/main.cpp.obj	fa5ab5225992d80f
+19	538	7106695336311448	CMakeFiles/Examen_Practic_30_05_2022.dir/tests.cpp.obj	f49edce5983a57d
+3	592	7106695337094794	CMakeFiles/Examen_Practic_30_05_2022.dir/Bacterie.cpp.obj	a08c74594919626a
+14	605	7106695337196060	CMakeFiles/Examen_Practic_30_05_2022.dir/Repository.cpp.obj	1cbe32e5ff0c29d2
+31	619	7106695337316105	CMakeFiles/Examen_Practic_30_05_2022.dir/Service.cpp.obj	53eff3701d1eb081
+24	633	7106695337519274	CMakeFiles/Examen_Practic_30_05_2022.dir/UI.cpp.obj	795e662d3c50ed85
+634	798	7106695339128970	Examen_Practic_30_05_2022.exe	9f2dfe5d06d8a936

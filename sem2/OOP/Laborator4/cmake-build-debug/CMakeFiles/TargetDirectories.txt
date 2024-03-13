@@ -1,0 +1,3 @@
+C:/Users/Andrei2/CLionProjects/Laborator4/cmake-build-debug/CMakeFiles/Laborator4.dir
+C:/Users/Andrei2/CLionProjects/Laborator4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei2/CLionProjects/Laborator4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
